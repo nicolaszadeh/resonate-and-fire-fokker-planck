@@ -65,5 +65,5 @@ The used method is an original semi-implicit-like finite differences method with
 All the directories contain a "Results" sub-directory with outputs of the codes contained in the initial directory.
 
 - 'Solver' contains multiple uses of the pde solver to obtain info on solutions to the pde in different regimes 
-- 'Brian 2-single neuron' contains code used to illustrate the behaviour of neurons thanks to the Brian 2 solver [https://elifesciences.org/articles/47314 ](url) $\quad$ [https://brian2.readthedocs.io/en/stable/index.html](url) 
+- 'Brian 2-single neuron' contains code used to illustrate the behaviour of neurons thanks to the Brian 2 solver [Elife paper](https://elifesciences.org/articles/47314), [Brian2 documentation](https://brian2.readthedocs.io/en/stable/index.html)
 - 'Solver-Brian 2-comparison' contains a comparison of the pde model/solver and the Brian 2 solver 
